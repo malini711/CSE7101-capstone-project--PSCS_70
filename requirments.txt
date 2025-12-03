@@ -1,0 +1,11 @@
+flask
+openai-whisper
+whisperx
+transformers
+torch
+torchaudio
+gtts
+moviepy
+ffmpeg-python
+Flask
+gTTS
